@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile!<br>
 
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRiZjQwYjIyNWE1MzBjMjcyZTZhZWJmOGM1YTM0ODU2MWE0ZTA4NCZjdD1n/fatcd1PnHPTDW/giphy.gif)
-
 I am open to new opportunities and am always looking for ways to apply my skills to make a positive impact. Feel free to reach out to me if you have any questions or would like to work together. Thank you for visiting my profile!
 
   
