@@ -2,7 +2,26 @@
 
 Welcome to my GitHub profile!<br>
 
-I am open to new opportunities and am always looking for ways to apply my skills to make a positive impact. Feel free to reach out to me if you have any questions or would like to work together. Thank you for visiting my profile!
+I am a software developer, and I have worked for 4 months at a startup company. My work experience is primarily focused on frontend technologies, and during this time, I have honed my skills in technologies like React, TypeScript, and CSS. Additionally, I continuously improve myself by taking online courses (such as www.patika.dev) and creating various projects on GitHub to enhance my software development abilities. Despite not having work experience in the backend field, my passion for software development and my skills continue to grow based on my university education. I am currently actively seeking new job opportunities and aspire to continue showcasing my contributions to the software world.    
+for more https://www.ahsenumitcelik.dev/  
+
+<h2 align="center"> Projects </h2>  
+https://aumitcelik.github.io/digitalClock/   
+https://aumitcelik.github.io/counterExample/  
+https://aumitcelik.github.io/patikaHtmlOdev1/  
+https://aumitcelik.github.io/patikaHtmlOdev2/  
+https://aumitcelik.github.io/patikaHtmlOdev3/  
+https://aumitcelik.github.io/patikaHtmlBolumSonu/  
+https://aumitcelik.github.io/patikaCssOdev1/  
+https://aumitcelik.github.io/patikaCssOdev2/  
+https://aumitcelik.github.io/patikaCssOdev3/  
+https://aumitcelik.github.io/patikaBootstrapOdev1/  
+https://aumitcelik.github.io/patikaBootstrapOdev2/  
+https://aumitcelik.github.io/patikaBootstrapOdev3/  
+https://aumitcelik.github.io/patikaJavaScriptOdev1/  
+https://aumitcelik.github.io/patikaJavaScriptOdev2/  
+https://aumitcelik.github.io/patikaJavaScriptOdev3/    
+
 
   
 <h2 align="center"> 🌐 Socials </h2>
