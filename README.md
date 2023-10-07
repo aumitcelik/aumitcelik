@@ -6,21 +6,36 @@ I am a software developer, and I have worked for 4 months at a startup company. 
 for more https://www.ahsenumitcelik.dev/  
 
 <h2 align="center"> 🧑‍💻 Projects </h2>    
-*    https://aumitcelik.github.io/digitalClock/      
-*    https://aumitcelik.github.io/counterExample/           
-*    https://aumitcelik.github.io/patikaHtmlOdev1/      
-*    https://aumitcelik.github.io/patikaHtmlOdev2/      
-*    https://aumitcelik.github.io/patikaHtmlOdev3/      
-*    https://aumitcelik.github.io/patikaHtmlBolumSonu/      
-*    https://aumitcelik.github.io/patikaCssOdev1/   
-*    https://aumitcelik.github.io/patikaCssOdev2/       
-*    https://aumitcelik.github.io/patikaCssOdev3/       
-*    https://aumitcelik.github.io/patikaBootstrapOdev1/         
-*    https://aumitcelik.github.io/patikaBootstrapOdev2/         
-*    https://aumitcelik.github.io/patikaBootstrapOdev3/         
-*    https://aumitcelik.github.io/patikaJavaScriptOdev1/        
-*    https://aumitcelik.github.io/patikaJavaScriptOdev2/        
-*    https://aumitcelik.github.io/patikaJavaScriptOdev3/        
+    https://aumitcelik.github.io/digitalClock/  
+
+    https://aumitcelik.github.io/counterExample/    
+
+    https://aumitcelik.github.io/patikaHtmlOdev1/    
+
+    https://aumitcelik.github.io/patikaHtmlOdev2/    
+
+    https://aumitcelik.github.io/patikaHtmlOdev3/    
+
+    https://aumitcelik.github.io/patikaHtmlBolumSonu/   
+
+    https://aumitcelik.github.io/patikaCssOdev1/    
+
+    https://aumitcelik.github.io/patikaCssOdev2/    
+
+    https://aumitcelik.github.io/patikaCssOdev3/    
+
+    https://aumitcelik.github.io/patikaBootstrapOdev1/  
+
+    https://aumitcelik.github.io/patikaBootstrapOdev2/   
+
+    https://aumitcelik.github.io/patikaBootstrapOdev3/  
+
+    https://aumitcelik.github.io/patikaJavaScriptOdev1/  
+
+    https://aumitcelik.github.io/patikaJavaScriptOdev2/  
+
+    https://aumitcelik.github.io/patikaJavaScriptOdev3/   
+     
 
 
   
