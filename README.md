@@ -1,8 +1,7 @@
  <h1 align="center">👋 Hello, I'm Ümit </h1>
 
 Welcome to my GitHub profile!<br>
-
-I am a software developer, and I have worked for 4 months at a startup company. My work experience is primarily focused on frontend technologies, and during this time, I have honed my skills in technologies like React, TypeScript, and CSS. Additionally, I continuously improve myself by taking online courses (such as www.patika.dev) and creating various projects on GitHub to enhance my software development abilities. Despite not having work experience in the backend field, my passion for software development and my skills continue to grow based on my university education. I am currently actively seeking new job opportunities and aspire to continue showcasing my contributions to the software world.    
+    
 for more https://www.ahsenumitcelik.dev/  
 
 <h2 align="center"> 🧑‍💻 Projects </h2>  
